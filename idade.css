@@ -1,0 +1,49 @@
+*{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0px;
+ 
+}
+
+
+
+
+.calcular{
+  margin: auto;
+  color: rgb(19, 17, 17);
+  background-color: rgb(218, 229, 136);
+  border: 20px;
+  padding: 15px;
+  width: 50%;
+  border-color: black;
+}
+
+.borda{
+  background-color: rgb(223, 160, 199);
+  color: white;
+  border: 20px;
+  padding: 15px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.isso{
+  width: 80%;
+}
+
+.rodape {
+ background-color: rgb(167, 236, 159);
+ margin-top: 0px;
+  text-align: center;   
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  margin-top: 50px;
+
+}
+.senai{
+  background-color: rgb(138, 204, 228);
+  margin-top: 10px;
+  font-size: 18px;
+}
